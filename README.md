@@ -1,6 +1,6 @@
 # వ్భారతి (vBharati) - Telugu Literary Magazine
 
-A digital Telugu literary magazine website inspired by [Asimov Press](https://press.asimov.com/). The site features articles organized by issue, author pages, and a clean editorial design optimized for Telugu typography.
+A digital Telugu literary magazine website featuring articles organized by issue, author pages, and a clean editorial design optimized for Telugu typography.
 
 **Live site:** https://vbharati.com (when deployed)
 
